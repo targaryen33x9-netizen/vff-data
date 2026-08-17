@@ -5,19 +5,35 @@
     "author": "VFF",
     "date": "2026-08-16",
     "category": "Legal Research",
-    "tags": ["juvenile justice", "criminal law", "children"],
+    "tags": [
+      "juvenile justice",
+      "criminal law",
+      "children"
+    ],
     "excerpt": "When a Child Meets Crime examines the legal and social dimensions of children who encounter crime and the criminal justice system.",
+    "synopsis": "When a Child Meets Crime explores the complex intersection of childhood, criminal conduct, and the justice system. The article examines how the law approaches children who become involved in crime, addressing questions of juvenile responsibility, rehabilitation, protection, and the social circumstances that may contribute to delinquency. It highlights the need to balance accountability with the child's age, vulnerability, developmental needs, and prospects for rehabilitation, while considering broader challenges within juvenile justice.",
+    "cover": "https://raw.githubusercontent.com/targaryen33x9-netizen/vff-data/main/when_a_child_meets_crime_cover_image.jpeg",
     "pdfUrl": "https://raw.githubusercontent.com/targaryen33x9-netizen/vff-data/main/when_a_child_meets_crime.pdf",
     "readTime": "10 min"
   },
   {
     "id": "article-002",
-    "title": "Tulika Bhagat Article — GWCL",
+    "title": "Seeing Is No Longer Believing: The Rise of Deep Fake Crimes in India",
     "author": "Tulika Bhagat",
     "date": "2026-08-16",
     "category": "Legal Research",
-    "tags": ["law", "legal research"],
-    "excerpt": "A legal research article by Tulika Bhagat for GWCL.",
+    "tags": [
+      "deepfakes",
+      "artificial intelligence",
+      "cybercrime",
+      "criminal law",
+      "privacy",
+      "digital evidence",
+      "India"
+    ],
+    "excerpt": "This study examines the rise of deepfake crimes in India and the legal, constitutional, evidentiary, and societal challenges created by AI-generated synthetic media.",
+    "synopsis": "Seeing Is No Longer Believing: The Rise of Deep Fake Crimes in India examines the emergence of deepfake technology as a growing legal, constitutional, and societal challenge in India. The study explores how artificial intelligence and machine learning can generate highly realistic fabricated images, videos, and audio, undermining trust in digital content and challenging the traditional assumption that visual and audiovisual evidence is inherently reliable. It analyses major forms of deepfake-enabled crime, including identity theft, digital impersonation, voice-cloning scams, non-consensual intimate deepfakes, financial fraud, political misinformation, and election manipulation. The research critically evaluates the Indian legal framework, including the Information Technology Act, 2000, the Bharatiya Nyaya Sanhita, 2023, the Bharatiya Sakshya Adhiniyam, 2023, and the Digital Personal Data Protection Act, 2023, while examining constitutional principles concerning privacy, dignity, reputation, and freedom of expression. It also considers relevant judicial decisions, particularly K. S. Puttaswamy v. Union of India and Shreya Singhal v. Union of India, alongside the challenges posed by manipulated digital evidence. The study concludes by highlighting the need for stronger legislation, digital forensic capabilities, regulatory oversight, institutional preparedness, and responsible AI governance to address the rapidly evolving threat of deepfake crimes in India.",
+    "cover": "https://raw.githubusercontent.com/targaryen33x9-netizen/vff-data/main/deepfake_crime_cover_image.jpeg",
     "pdfUrl": "https://raw.githubusercontent.com/targaryen33x9-netizen/vff-data/main/tulika_bhagat_article_gwcl.pdf",
     "readTime": "10 min"
   }
